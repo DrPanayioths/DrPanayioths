@@ -1,7 +1,7 @@
 
 
 
-# Hi, I'm DrPanayiohts! 👋
+# Hi, I'm DrPanayioths! 👋
 
 
 [![stats](https://githubstatsdrp.vercel.app/api?username=drpanayioths)](https://githubstatsdrp.vercel.app/api?username=drpanayioths)
