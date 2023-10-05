@@ -3,7 +3,7 @@
 
 [![stats](https://githubstatsdrp.vercel.app/api?username=drpanayioths&show_icons=true&theme=radical)](https://githubstatsdrp.vercel.app/api?username=drpanayioths&show_icons=true&theme=radical)
 
-![Top Langs](https://githubstatsdrp.vercel.app/api/top-langs/?username=drpanayioths&layout=compact)
+![Top Langs](https://githubstatsdrp.vercel.app/api/top-langs/?username=drpanayioths&layout=compact&theme=radical)
 
 
 ## 🚀 Languages
