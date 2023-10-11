@@ -1,8 +1,8 @@
 # Hi, I'm DrPanayioths! 👋
 
 
-![stats](https://githubstatsdrp.vercel.app/api?username=drpanayioths&show_icons=true&theme=radical)
-![Top Langs](https://githubstatsdrp.vercel.app/api/top-langs/?username=drpanayioths&layout=compact&theme=radical)
+![stats](https://drpanayiotprivatestatscode523116.vercel.app/api?theme=radical&username=drpanayioths&show_icons=true)
+![Top Langs](https://drpanayiotprivatestatscode523116.vercel.app/api/top-langs/?username=drpanayioths&layout=compact&theme=radical)
 
 
 ## 🚀 Languages
