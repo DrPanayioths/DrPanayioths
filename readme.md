@@ -7,7 +7,7 @@
 
 ## 🚀 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js)](https://skillicons.dev)
 
 
 
