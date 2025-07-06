@@ -13,6 +13,5 @@
 
 
 
-## 🚀 About Me 
-I'm Learning Coding by Myself For Myself
-
+## 🚀 My Moto
+Learning to code so I can create tools the world can use.
