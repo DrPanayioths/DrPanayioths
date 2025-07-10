@@ -1,9 +1,11 @@
 # Hi, I'm DrPanayioths! 👋    
 
-
-![stats](https://drpanayiotprivatestatscode523116.vercel.app/api?theme=transparent&username=drpanayioths&show_icons=true) 
-![Top Langs](https://drpanayiotprivatestatscode523116.vercel.app/api/top-langs/?theme=transparent&username=drpanayioths&layout=compact)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://drpanayiotprivatestatscode523116.vercel.app/api?username=drpanayioths&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&border_radius=10" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://drpanayiotprivatestatscode523116.vercel.app/api/top-langs/?username=drpanayioths&layout=donut&theme=dark#gh-dark-mode-only&border_radius=10" />
+</a>
 
 ## 🚀 Languages
 
