@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://drpanayiotprivatestatscode523116.vercel.app/api?username=drpanayioths&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&border_radius=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://drpanayiotprivatestatscode523116.vercel.app/api/top-langs/?username=drpanayioths&layout=donut&theme=dark#gh-dark-mode-only&border_radius=10" />
+  <img height=200 align="center" src="https://drpanayiotprivatestatscode523116.vercel.app/api/top-langs/?username=drpanayioths&layout=compact&theme=dark#gh-dark-mode-only&border_radius=10" />
 </a>
 
 ## 🚀 Languages
