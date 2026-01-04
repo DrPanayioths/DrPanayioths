@@ -17,3 +17,5 @@
 
 ## 🚀 My Moto
 Learning to code so I can create tools the world can use.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31RMY05)
