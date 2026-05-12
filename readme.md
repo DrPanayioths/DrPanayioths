@@ -19,14 +19,6 @@ A productivity timer app to help you stay focused and get things done.
 
 ---
 
-## ☕ Support My Work
-
-If you find my projects useful, consider buying me a coffee!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31RMY05)
-
----
-
 <p align="center">
   <i>*Learning to code so I can create tools the world can use.*</i>
 </p>
