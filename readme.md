@@ -8,7 +8,7 @@
 
 ## 🚀 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,js,python)](https://skillicons.dev)
 
 ---
 
