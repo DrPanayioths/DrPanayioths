@@ -17,6 +17,9 @@
 ### [Pomodorez](https://pomodorez.com)
 A productivity timer app to help you stay focused and get things done.
 
+### [Panellinies Space](https://panellinies.space)
+Interactive study platform for Greek university entrance exams (Πανελλήνιες) — featuring practice tests and resources for Modern Greek Language and Mathematics.
+
 ---
 
 <p align="center">
